@@ -2,6 +2,8 @@ package edu.esprit.greeder;
 
 public class Greeter {
 	
+	public String var2;
+	
 	/**
 	 * 
 	 * 	sayHello method
