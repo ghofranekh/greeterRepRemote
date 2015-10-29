@@ -15,10 +15,10 @@ public class GreeterTest {
 		
 	}
 @Test	
-public void itShouldSayHelloWorld(){
+public void itShouldSayHelloJAVA(){
 	
-	String result = greeter.sayHello("World");
-	Assert.assertEquals("Hello World", result);
+	String result = greeter.sayHello("JAVA");
+	Assert.assertEquals("Hello JAVA1", result);
 
 }
 @Test (expected = IllegalArgumentException.class)
