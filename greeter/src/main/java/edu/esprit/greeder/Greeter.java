@@ -3,7 +3,6 @@ package edu.esprit.greeder;
 public class Greeter {
 	
 	 public String var1;
-
 	 public String var2;
 
 	/**
